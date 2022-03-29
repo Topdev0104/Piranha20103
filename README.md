@@ -44,6 +44,6 @@ Alone we can do so little; together we can do so much.
 <h3 align="center">🔥 My Github Stats 🔥</h3>
 <br>
 <p align="center">
-    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Piranha0103&theme=react&border=61dafb&hide_border=true" alt="Piranha0103" />
-    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Piranha0103&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Piranha20103&theme=react&border=61dafb&hide_border=true" alt="Piranha20103" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Piranha20103&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
